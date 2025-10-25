@@ -830,5 +830,59 @@ Time parsing: The service attempts to parse evaluationDate if provided as ISO; f
 
 
 
+==================================================================================================================================================================================================================
+
+
+Module 1: Basics of Human Resources Management
+
+Human Resource Management System, and Context
+Recruitment, Selection, and Induction
+Performance Management
+Compensation and Reward Management
+Contemporary Industrial/Employee Relations issues
+
+
+Module 2: Basics of Organizational Behavior
+
+Understanding People
+Personality
+Perceptions and Biases
+Motivation
+Working in Teams
+Leadership
+Leading and Managing Change
+
+
+Module 3: Contemporary Talent Management
+
+Contemporary challenges of Talent management
+Competency mapping and assessment centers (including 360 – degree feedback)
+Development of people – Role of training in Talent Management
+Coaching and Mentoring
+
+
+Module 4: Strategic HRM
+
+HRM Strategy/Policy Choices in Service and Product (Manufacturing) Industry
+Best Practices (High Performance work systems), Best Fit approach to SHRM
+Horizontal and Vertical fit in SHRM- HR system properties and Balanced Scorecard
+HRM analytical Framework for services.
+Managing Human Resources in dynamic environments-Flexible HRM Systems
+Strategic HRM issues\ In representative industries- healthcare, IT, sales/services/ manufacturing
+
+
+Module 5: General Management
+
+Basics of Finance
+Data Science and HRM
+Marketing concepts applied to HRM
+
+
+Module 6: Contemporary issues in HRM/IR issues
+
+HRM in new age organizations and new forms of work
+Digital Transformation and HRM
+HR Analytics
+Quantitative techniques for HRM
 
 
