@@ -886,3 +886,17 @@ HR Analytics
 Quantitative techniques for HRM
 
 
+Abstract:
+
+The high performance of work organizations is predicative of effective recruitment and selection or strategic onboarding of the most valuable asset, people who contribute individually or collectively to sustain an organization. 
+This paper explores effective onboarding on employee engagement and retention in work organizations. 
+The exploratory design was adopted because it permits an in-depth review and analysis of a phenomenon. 
+It posed that an integral aspect of any successful organization is the adherence to key processes and procedures for onboarding new entrants into the company. 
+This is a truism because a well-planned recruitment and selection system will overcome the challenges of understaffing or overstaffing, which would affect the manpower needs of the organization. 
+It matches the right quantity and quality of employees with the requisite knowledge, skills, talents, and experience for proper placement and engagement. 
+The study revealed that an effective onboarding strategy emphasizes employee participation in achieving the organization's goals and desired long-term objectives, enhancing business performance through employee engagement and retention devoid of employee turnover. 
+It was shown that socialization in the workplace is enhanced and employee turnover is reduced when onboarding processes are effective and take into consideration the various learning styles and positional requirements of new employees. 
+It was affirmed that onboarding is a collaborative process spanning a few days to several months. 
+As a result, organizations must ensure regular communication with new employees, starting when they accept the job offer and continuing even after the placement process is complete. 
+The researchers conclude that leaders or managers need comprehensive knowledge and understanding of the operational requirements in the system, which play a crucial role in the onboarding process, and their expertise will help to ensure that potential employees are the right fit for the organization, intended to boost job performance and decrease employee turnover. 
+It was juxtaposed that onboarding processes are enhanced through effective and supportive leadership at every level.
